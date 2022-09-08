@@ -6,3 +6,7 @@ Books have been the medium of knowledge flow from one generation to it's next. T
 
 
 ![](output.png)
+
+You can read the notebook @[NBViewer](https://nbviewer.org/github/dSilu/Best_Selling_Books_of_Amazon/blob/main/bestselling%20books%20analysis.ipynb)
+
+Made with ❤️ - [Ashrulochan Sahoo](https://github.com/dSilu)
