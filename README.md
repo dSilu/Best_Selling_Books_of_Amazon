@@ -1,0 +1,8 @@
+# Best Selling Novels 2009 - 2021 of Amazon
+
+-----
+
+Books have been the medium of knowledge flow from one generation to it's next. There are around 1 million books published in each year (excluding the self-published authors), but a few of them make their way to the list of Best Sellers. There are books that stays for years and each time they are opened feels anew. And, here we'll explore some of best selling novels of Amazon from 2009 to 2021.
+
+
+![](output.png)
