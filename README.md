@@ -7,6 +7,9 @@ Books have been the medium of knowledge flow from one generation to it's next. T
 
 ![](output.png)
 
+- [Pandas Analysis Notebook](https://github.com/dSilu/Best_Selling_Books_of_Amazon/blob/main/bestselling%20books%20analysis.ipynb)
+- [SQL(MySQL) Analysis Script](https://github.com/dSilu/Best_Selling_Books_of_Amazon/blob/main/analysis.sql)
+
 You can read the notebook @[NBViewer](https://nbviewer.org/github/dSilu/Best_Selling_Books_of_Amazon/blob/main/bestselling%20books%20analysis.ipynb)
 
 Made with ❤️ - [Ashrulochan Sahoo](https://github.com/dSilu)
